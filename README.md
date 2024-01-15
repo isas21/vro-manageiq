@@ -1,2 +1,2 @@
-# vro-manageiq
-ManageIQ management package
+# ManageIQ management package
+
